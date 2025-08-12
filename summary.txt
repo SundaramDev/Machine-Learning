@@ -1,0 +1,9 @@
+🔍 Summary of Key Insights
+
+China and India have the highest populations, followed by the United States.
+
+Population distribution is heavily right-skewed, with a few countries having extremely large populations and many having very small ones.
+
+Most populous countries are concentrated in Asia, showing strong geographic patterns.
+
+A few countries (like small island nations) appear as outliers with tiny populations.
